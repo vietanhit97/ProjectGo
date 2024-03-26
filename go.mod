@@ -29,7 +29,7 @@ require (
 	github.com/subosito/gotenv v1.6.0
 	github.com/volatiletech/null/v8 v8.1.2
 	github.com/volatiletech/randomize v0.0.1
-	github.com/volatiletech/sqlboiler/v4 v4.16.1
+	github.com/volatiletech/sqlboiler/v4 v4.16.2
 	github.com/volatiletech/strmangle v0.0.6
 	golang.org/x/crypto v0.18.0
 	golang.org/x/mod v0.14.0
