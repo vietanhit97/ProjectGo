@@ -33,7 +33,7 @@ require (
 	github.com/volatiletech/strmangle v0.0.6
 	golang.org/x/crypto v0.18.0
 	golang.org/x/mod v0.14.0
-	golang.org/x/sys v0.16.0
+	golang.org/x/sys v0.18.0
 	golang.org/x/text v0.14.0
 	google.golang.org/api v0.161.0
 )
